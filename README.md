@@ -15,7 +15,7 @@ Solo tienes que descomprimir con 7-zip, winrar... el archivo en este repositorio
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-This is my first ever game.
+This is my first game ever.
 
 It was develop for my final degree project. 
 
