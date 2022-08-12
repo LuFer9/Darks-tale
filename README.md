@@ -56,7 +56,7 @@ _Es posible que windows te detecte el ejecutable como un Virus o Malware. Es tot
 
 ## Bugs y fallos
 
-_Podeís sentiros libre de reportar cualquier fallo o bug que os encontreís. Ademas el desarrollo esta en proceso y estoy abierto a nuevas ideas y mejoras_
+_Podeís sentiros libre de reportar cualquier fallo o bug que os encontreís. Además el desarrollo esta en proceso y estoy abierto a nuevas ideas y mejoras_
 
 
 ---
